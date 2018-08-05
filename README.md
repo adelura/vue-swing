@@ -1,4 +1,8 @@
-# VueSwing
+# VueSwing2
+
+## Disclaimer
+
+This is the fork of https://github.com/goweiwen/vue-swing as there are [some fixes](https://github.com/goweiwen/vue-swing/pull/7) here which wasn't applied into original repository.
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,13 +12,13 @@ A Vue.js wrapper for [Swing](https://github.com/gajus/swing). Swing is a swipeab
 ## Installing
 
 ```sh
-npm install --save vue-swing
+npm install --save vue-swing2
 ```
 
 ## Usage
 
 ```js
-import VueSwing from 'vue-swing'
+import VueSwing from 'vue-swing2'
 
 Vue.component('vue-swing', VueSwing)
 ```

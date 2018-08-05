@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import VueSwing from 'vue-swing'
+import VueSwing from 'vue-swing2'
 
 export default {
   name: 'app',
