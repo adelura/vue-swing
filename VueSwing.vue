@@ -5,7 +5,7 @@
 </template>
 
 <script>
-const Swing = require('swing')
+const Swing = require('swing-pull135')
 
 export default {
   name: 'vue-swing',

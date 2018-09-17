@@ -1,6 +1,6 @@
 {
   "name": "vue-swing2",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Vue.js wrapper for Swing",
   "main": "VueSwing.vue",
   "repository": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/adelura/vue-swing2#readme",
   "peerDependencies": {
-    "swing": "^3.0.0",
+    "swing-pull135": "^3.1.0",
     "vue": "^2.0.0"
   },
   "devDependencies": {
@@ -35,7 +35,8 @@
     "eslint-plugin-prettier": "^2.3.1",
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1",
-    "swing": "^3.1.1",
+    "swing-pull135": "^3.1.0",
+
     "vue": "^2.5.2"
   }
 }
